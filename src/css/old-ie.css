@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/*
+	ie8 크로스브라우징 css 입니다.
+	최초작성 : 20150924
+	작성자 : 고도소프트 류인상
+*/
+
+
+.header .top-service .notice ul {
+	margin:17px  0 0;
+	padding: 0;
+}

@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+/*
+	html 리셋 css 입니다.
+	최초작성 : 20150919
+	작성자 : 고도소프트 류인상
+*/
+
+body {
+	line-height:1.4;
+	margin:0;
+}

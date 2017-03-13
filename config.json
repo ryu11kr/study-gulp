@@ -1,0 +1,20 @@
+{
+	"lint" : true,
+	"concat" : true,
+	"uglify" : true,
+	"rename" : true,
+
+	"path" : {
+		"css" : {
+			"src" : ["src/css/*.css"],
+			"dest" : "css-press",
+			"filename" : "style.css"
+		},
+		"js" : {
+			"src": ["src/*.js"],
+			"dest" : "compression/",
+			"filename" : "compression.js"
+
+		}
+	}
+}

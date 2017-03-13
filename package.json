@@ -1,0 +1,27 @@
+{
+  "name": "gulp_project_book_demo",
+  "version": "0.0.0",
+  "description": "gulp.j 이해를 돕기 위한 책 예제를 다룹니다.",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-csslint": "^1.0.0",
+    "gulp-csslint-report": "^1.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.0",
+    "gulp-uglifycss": "^1.0.6",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ryu11",
+  "license": "ISC"
+}
